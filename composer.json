@@ -1,9 +1,10 @@
 {
-	"name" : "iss/hdphp-framework",
+	"name" : "hashim/hdphp-framework",
 	"description" : "Iss web php framework",
 	"minimum-stability" : "dev",
 	"type" : "library",
 	"license" : "proprietary",
+	"Version":"1.0",
 	"authors" : [{
 			"name" : "Cornel Zgardan",
 			"email" : "zgardancornel@gmail.com"
