@@ -17,7 +17,7 @@
 	},
 	"repositories" : [{
 			"type" : "vcs",
-			"url" : "git@bitbucket.org:hdsoftwaredev/lolopay-php-sdk.git"
+			"url" : "git@github.com:hashimikram/lolopay.git"
 		}
 	],
 	"require" : {
@@ -56,7 +56,7 @@
 		"smottt/wideimage" : "~1.1.3",
 		"alcaeus/mongo-php-adapter": "^1.1@dev",
 		"phpseclib/mcrypt_compat": "~1.0.11",
-		"iss/lolopay-php-sdk-v1" : "~2.0.0"
+		"hashimikram/lolopay" : "dev-main"
 	},
   "config": {
     "platform": {
