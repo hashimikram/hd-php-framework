@@ -1,5 +1,5 @@
 {
-	"name" : "hashim/hdphp-framework",
+	"name" : "hashimikram/hd-php-framework",
 	"description" : "Iss web php framework",
 	"minimum-stability" : "dev",
 	"type" : "library",
